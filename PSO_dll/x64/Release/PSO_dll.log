@@ -1,0 +1,10 @@
+﻿  PSO_dll.cpp
+c:\users\nicolas.oliveira\documents\5ano\pfc\python-experiments\pso_dll\pso_dll.cpp(63): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+c:\users\nicolas.oliveira\documents\5ano\pfc\python-experiments\pso_dll\pso_dll.cpp(100): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+     Criando biblioteca C:\Users\nicolas.oliveira\Documents\5ano\PFC\python-experiments\x64\Release\PSO_dll.lib e objeto C:\Users\nicolas.oliveira\Documents\5ano\PFC\python-experiments\x64\Release\PSO_dll.exp
+  Gerando código
+  1 of 2629 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  PSO_dll.vcxproj -> C:\Users\nicolas.oliveira\Documents\5ano\PFC\python-experiments\x64\Release\PSO_dll.pyd
